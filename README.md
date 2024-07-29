@@ -1,7 +1,6 @@
 # Mandelbrot Set Explorer
 
-About This Project
-This project is a Mandelbrot Set plot explorer built using Python's Tkinter and PIL libraries. It allows users to interactively explore the Mandelbrot Set by zooming in on any point within the plot by clicking on the area of interest.
+This project is a Mandelbrot explorer built using Python's Tkinter and PIL libraries. It allows users to interactively explore the Mandelbrot Set by zooming in on any point within the plot by clicking on the area of interest.
 
 Key Features
 Interactive Exploration: Click anywhere on the plot to zoom in and explore the intricate details of the Mandelbrot Set.
